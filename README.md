@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-<b>Hello world!<\b>
+<b>Hello world!</b>
